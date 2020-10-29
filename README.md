@@ -1,6 +1,8 @@
 # NewsSystemApp
 在线新闻浏览app
-App的logo
+
+
+App的logo<br>
 ![image](https://github.com/ANewus/NewsSystemApp/blob/master/readme-img/logo.png)
 
 整个程序基于android技术开发，出总体模块外主要分为“首页”、“优惠”、“更多”以及“我的”（包括一些其他功能）这四大部分。底部为一个菜单栏，可以进行四个模块的切换。
