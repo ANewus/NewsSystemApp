@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        xmlns:leon="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_alignParentTop="true"
+
+        android:id="@+id/linear2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginBottom="16dp"
+            android:background="#fff"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/logo1"
+                android:layout_width="207dp"
+                android:layout_height="107dp"
+                android:src="@drawable/logo1"
+                android:scaleType="fitXY"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="葫芦，一个有用的网站"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="   关于我们"
+            android:textSize="25dp"/>
+        <com.leon.lib.settingview.LSettingItem
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            leon:leftIcon="@drawable/email"
+            leon:leftText="发送电子邮件"
+            leon:rightStyle="iconHide"
+            android:id="@+id/email"/>
+        <com.leon.lib.settingview.LSettingItem
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            leon:leftIcon="@drawable/www"
+            leon:leftText="访问网站"
+            leon:rightStyle="iconHide"
+            android:id="@+id/www"/>
+        <com.leon.lib.settingview.LSettingItem
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            leon:leftIcon="@drawable/phone"
+            leon:leftText="拨打电话"
+            leon:rightStyle="iconHide"
+            android:id="@+id/phone"/>
+        <com.leon.lib.settingview.LSettingItem
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            leon:leftIcon="@drawable/weibo"
+            leon:leftText="关注作者微博"
+            leon:rightStyle="iconHide"
+            android:id="@+id/weibo"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
