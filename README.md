@@ -12,18 +12,18 @@ App的logo<br>
 ![image](https://github.com/ANewus/NewsSystemApp/blob/master/readme-img/ex1.png)
 
 “优惠”部分通过一个简单的WebView，来实现淘宝优惠券的页面。<br>
-![image](https://github.com/ANewus/NewsSystem/blob/master/readme/youhui.png)
+![image](https://github.com/ANewus/NewsSystem/blob/master/readme-img/youhui.png)
 
 “更多”部分也就是几个简单的模块。点击“扫一扫”，通过监听该模块，用户点击之后获取相机权限，从而进行扫一扫，扫描结果跳转到本地默认浏览器。<br>
-![image](https://github.com/ANewus/NewsSystem/blob/master/readme/more.png)
+![image](https://github.com/ANewus/NewsSystem/blob/master/readme-img/more.png)
 
 “我的”部分，点击按钮他会监听该按钮，从而进行相对于的操作，和“更多”模块差不多。<br>
-![image](https://github.com/ANewus/NewsSystem/blob/master/readme/my.png)
-![image](https://github.com/ANewus/NewsSystem/blob/master/readme/about.png)
+![image](https://github.com/ANewus/NewsSystem/blob/master/readme-img/my.png)
+![image](https://github.com/ANewus/NewsSystem/blob/master/readme-img/about.png)
 
 登陆界面：<br>
-![image](https://github.com/ANewus/NewsSystem/blob/master/readme/login.png)
+![image](https://github.com/ANewus/NewsSystem/blob/master/readme-img/login.png)
 
 注册界面：<br>
-![image](https://github.com/ANewus/NewsSystem/blob/master/readme/register.png)
+![image](https://github.com/ANewus/NewsSystem/blob/master/readme-img/register.png)
 
