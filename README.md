@@ -19,8 +19,10 @@ App的logo<br>
 
 “我的”部分，点击按钮他会监听该按钮，从而进行相对于的操作，和“更多”模块差不多。<br>
 ![image](https://github.com/ANewus/NewsSystemApp/blob/master/readme-img/my.png)
-![image](https://github.com/ANewus/NewsSystemApp/blob/master/readme-img/about.png)
+![image](https://github.com/ANewus/NewsSystemApp/blob/master/readme-img/about.png)<br>
 
+
+登陆注册端与服务器端交互<br>
 登陆界面：<br>
 ![image](https://github.com/ANewus/NewsSystemApp/blob/master/readme-img/login.png)
 
